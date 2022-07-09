@@ -5,20 +5,23 @@ Sensing system design and algorithm development for balance decline detection an
  - Final report.pdf
  - Semester report.pdf
 # Operating system, etc
-- Linux ubuntu 
+- Linux ubuntu 18.04
 - ROS Melodic
 - Python 2.7
 
-# Files
-## Python file
-Sub.py
-## Catkin
-catkin.zip
+# Main files
+## Python code
+sub.py
+## Catkin file
+catkin.zip can be downloaded via Google drive using the following link
+https://drive.google.com/file/d/1bGJ6LfMC1pHTB_K_3XD3Iwmnz_NFeAm7/view?usp=sharing
 ## hdl_people_tracking modified parameters
 hdl_people_tracking_static.launch
 
 # Solidworks LiDAR mount
-Files: LidarMountPart1.SLDPRT, Part2.SLDPRT, LiDAR.SLDPRT
+- LidarMountPart1.SLDPRT
+- Part2.SLDPRT
+- LiDAR.SLDPRT
 
 #  
 
