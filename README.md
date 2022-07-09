@@ -13,7 +13,7 @@ Sensing system design and algorithm development for balance decline detection an
 Sub.py
 
 # Solidworks LiDAR mount
-Files: Mount_part_1, Mount_part_2
+Files: LidarMountPart1.SLDPRT, Part2.SLDPRT, LiDAR.SLDPRT
 
 #  
 
