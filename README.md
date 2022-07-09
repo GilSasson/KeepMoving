@@ -39,7 +39,7 @@ download the hdl_people_tracking file. we advise to change these paramters for b
 paramters if using 32 layered Velodyne LiDAR. Note that changing these may require to change the HPF threshold in the Sub.py file
 for calculating the correct distance traveled and velocity (i.e. to remove to noise properly). 
 
-### Consumer survey
+# Consumer survey
 https://docs.google.com/forms/d/e/1FAIpQLSfcfyJ6ekp1y2lQ_J2TugChexLEdf3k7uKT_kq6_L6l1LB5Qw/viewform
 
 # Poster 
