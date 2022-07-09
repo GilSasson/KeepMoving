@@ -18,7 +18,7 @@ Files: LidarMountPart1.SLDPRT, Part2.SLDPRT, LiDAR.SLDPRT
 #  
 
 # LSTM model
- check out the LSTM test colab. We advise to take more data using the LiDAR at different distances as discussed in the final report.
+ check out the LSTM_test.ipynb colab. We advise to take more data using the LiDAR at different distances as discussed in the final report.
  - Current LSTM model uses data from lidar_test.csv file.
  
 # Kenji Koide's people tracking can be found here
