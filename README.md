@@ -26,7 +26,7 @@ hdl_people_tracking_static.launch
 #  
 
 # LSTM model
- check out the LSTM_test.ipynb colab. We advise to take more data using the LiDAR at different distances as discussed in the final report.
+ Check out the LSTM_test.ipynb colab. We advise to take more data using the LiDAR at different distances as discussed in the final report.
  - Current LSTM model uses data from lidar_test.csv file.
  
 # Kenji Koide's people tracking can be found here
