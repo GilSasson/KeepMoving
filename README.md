@@ -4,6 +4,8 @@ Sensing system design and algorithm development for balance decline detection an
 # Project report
  - Final report.pdf
  - Semester report.pdf
+ - Project Slides.pptx
+
 # Operating system, etc
 - Linux ubuntu 18.04
 - ROS Melodic
