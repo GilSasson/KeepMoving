@@ -41,3 +41,5 @@ for calculating the correct distance traveled and velocity (i.e. to remove to no
 
 ### Consumer survey
 https://docs.google.com/forms/d/e/1FAIpQLSfcfyJ6ekp1y2lQ_J2TugChexLEdf3k7uKT_kq6_L6l1LB5Qw/viewform
+
+![](https://github.com/https://github.com/GilSasson/KeepMoving/blob/main/Poster.jpeg?raw=true)
