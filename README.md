@@ -1,5 +1,9 @@
 # Keep Moving
 Sensing system design and algorithm development for balance decline detection and intervention in the elderly
+### Students' names
+Maya Kaufman, Gil Sasson
+### Advisors' names 
+Prof. Amir Shapiro, Prof. Itzik Melzer
 
 # Project report
  - Final report.pdf
