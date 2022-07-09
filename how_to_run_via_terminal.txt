@@ -1,0 +1,19 @@
+How to run:
+
+terminal-> roscore
+terminal-> lidar
+terminal-> roslaunch hdl_people_tracking hdl_people_tracking_static.launch
+terminal-> roscd hdl_localization/rviz
+           rviz -d hdl_localization.rviz
+
+Getting info:
+             -> rostopic echo /hdl_people_tracking_nodelet/markers
+             -> rosrun getmoving sub.py
+	     -> rostopic info /hdl_people_tracking_nodelet/markers
+
+
+
+
+
+
+
