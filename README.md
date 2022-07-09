@@ -34,7 +34,7 @@ hdl_people_tracking_static.launch
 # Kenji Koide's people tracking can be found here
 https://github.com/koide3/hdl_people_tracking
 
-## Our modified hdl_people_tracking parameters for the Leishen Intelligence System 16C LiDAR
+## Modified hdl_people_tracking parameters for the Leishen Intelligence System 16C LiDAR
 Download the hdl_people_tracking file. We advise to change these paramters for better results in the future or use Koide's
 paramters if using 32 layered Velodyne LiDAR. Note that changing these may require to change the HPF threshold in the Sub.py file
 for calculating the correct distance traveled and velocity (i.e. to remove to noise properly). 
