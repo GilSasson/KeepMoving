@@ -9,8 +9,13 @@ Sensing system design and algorithm development for balance decline detection an
 - ROS Melodic
 - Python 2.7
 
-# Python file
+# Files
+## Python file
 Sub.py
+## Catkin
+catkin.zip
+## hdl_people_tracking modified parameters
+hdl_people_tracking_static.launch
 
 # Solidworks LiDAR mount
 Files: LidarMountPart1.SLDPRT, Part2.SLDPRT, LiDAR.SLDPRT
