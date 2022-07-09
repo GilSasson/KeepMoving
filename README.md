@@ -1,4 +1,4 @@
-# KeepMoving
+# Keep Moving
 Sensing system design and algorithm development for balance decline detection and intervention in the elderly
 
 # Project report
